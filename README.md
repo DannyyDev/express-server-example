@@ -1,7 +1,7 @@
 # Express server example
 This is an express server example..
 
-## Developed in:
+## Developed with:
 > - HTML5
 > - NodeJS
 > - Express
