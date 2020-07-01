@@ -1,5 +1,5 @@
 # Express server example
-This is an express server example..
+This is an express server example...
 
 ## Developed with:
 > - HTML5
